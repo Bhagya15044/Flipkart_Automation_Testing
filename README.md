@@ -4,7 +4,7 @@ This repository contains manual testing documentation for a web application. It 
  🧪 Flipkart Website – QA Test Plan
 
  📌 Overview
-This repository contains the QA test plan and documentation for validating the Flipkart shopping website’s key modules and features.
+    This repository contains the QA test plan and documentation for validating the Flipkart shopping website’s key modules and features.
 
  ✅ Scope
 Testing covers the following modules:
